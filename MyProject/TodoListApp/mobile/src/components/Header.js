@@ -12,6 +12,7 @@ const Header = props => {
       </CountText>
     </Container>
   );
+  s;
 };
 
 const Container = styled.View`
